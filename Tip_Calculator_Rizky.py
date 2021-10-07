@@ -12,7 +12,7 @@ Total = Subtotal + Tip
 
 FormatSubtotal = format( Subtotal, ",.2f")
 FormatTip = format( Tip, ",.2f")
-FormatTotal = format ( Total, ",.2f")
+FormatTotal = format( Total, ",.2f")
 
 #FinalOutput
 
